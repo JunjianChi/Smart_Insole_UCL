@@ -16,23 +16,26 @@ It includes two main design iterations presented at ISCAS 2025 and ISCAS 2026
 ---
 
 ## 📁 Repository Structure
+<pre>
 Git_Insole/
-|-- README.md
-|-- Potential_Divider_Solution/
-|   |-- PCB/
-|   |-- Software_Code/
-|   |-- DataCollection/
-|   |-- Documents/
-|   `-- README.md
-|-- Double_Sensing_Solution/
-|   |-- 3D_Model/
-|   |-- DataCollection/
-|   |-- ESP_MCU_Code/
-|   |-- Multisim_Simulation/
-|   |-- PCB/
-|   |-- WiFi_Server_Code/
-|   `-- README.md
-`-- docs/
+├── README.md
+├── Potential_Divider_Solution/
+│   ├── PCB/
+│   ├── Software_Code/
+│   ├── DataCollection/
+│   ├── Documents/
+│   └── README.md
+├── Double_Sensing_Solution/
+│   ├── 3D_Model/
+│   ├── DataCollection/
+│   ├── ESP_MCU_Code/
+│   ├── Multisim_Simulation/
+│   ├── PCB/
+│   ├── WiFi_Server_Code/
+│   └── README.md
+└── docs/
+</pre>
+
 
 
 
