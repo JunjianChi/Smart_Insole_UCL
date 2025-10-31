@@ -17,22 +17,23 @@ It includes two main design iterations presented at ISCAS 2025 and ISCAS 2026
 
 ## 📁 Repository Structure
 Git_Insole/
-├── README.md
-├── Potential_Divider_Solution/        # ISCAS 2025 — Potential Divider sensing
-│   ├── PCB/                           # Schematic & layout
-│   ├── Software_Code/                 # MCU firmware & configs
-│   ├── DataCollection/                # Acquisition scripts (if any)
-│   ├── Documents/                     # Paper, slides, related materials
-│   └── README.md                      # Version-specific docs
-├── Double_Sensing_Solution/           # ISCAS 2026 — Dual-sensing hybrid design
-│   ├── 3D_Model/                      # Insole & sensor placement models
-│   ├── DataCollection/                # Experimental scripts & analysis
-│   ├── ESP_MCU_Code/                  # Firmware for dual-sensor system
-│   ├── Multisim_Simulation/           # Analog front-end simulations
-│   ├── PCB/                           # Hybrid PCB design & schematic
-│   ├── WiFi_Server_Code/              # Host-side Wi-Fi data transfer
-│   └── README.md                      # Version-specific docs
-└── docs/                               # Images used in README
+|-- README.md
+|-- Potential_Divider_Solution/
+|   |-- PCB/
+|   |-- Software_Code/
+|   |-- DataCollection/
+|   |-- Documents/
+|   `-- README.md
+|-- Double_Sensing_Solution/
+|   |-- 3D_Model/
+|   |-- DataCollection/
+|   |-- ESP_MCU_Code/
+|   |-- Multisim_Simulation/
+|   |-- PCB/
+|   |-- WiFi_Server_Code/
+|   `-- README.md
+`-- docs/
+
 
 
 ---
