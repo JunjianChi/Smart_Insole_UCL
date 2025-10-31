@@ -49,7 +49,7 @@ It includes two main design iterations presented at ISCAS 2025 and ISCAS 2026
 | Version        | Year | Core Method                   | 
 |----------------|------|-------------------------------|
 | **ISCAS 2025** | 2025 | Potential Divider Circuit     | 
-| **ISCAS 2026** | 2026 | Dual-Sensing Hybrid Design    |
+| **ISCAS 2026** | 2026 | Dual-Sensing  Design    |
 
 ---
 
