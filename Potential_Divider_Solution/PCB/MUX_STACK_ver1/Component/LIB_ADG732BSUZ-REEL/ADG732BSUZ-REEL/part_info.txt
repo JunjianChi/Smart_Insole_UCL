@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADG732BSUZ-REEL
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=1.1
+Released=2020-02-13 03:58:16
+Downloaded=2024-08-14 00:34:53
+3D=Y

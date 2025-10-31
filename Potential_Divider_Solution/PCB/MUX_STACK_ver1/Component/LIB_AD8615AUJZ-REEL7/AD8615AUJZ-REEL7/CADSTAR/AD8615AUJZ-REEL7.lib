@@ -1,0 +1,16 @@
+.AD8615AUJZ-REEL7 :1 ;ANALOG DEVICES - AD8615AUJZ-REEL7 - OP-AMP, 24MHZ, 12V/US, TSOT-23-5
+SOT95P280X100-5N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="V-" 3="+IN" 4="-IN" 5="V+"
+*MXP 5
+*DFN AD8615AUJZ-REEL7
+~!Mouser Part Number (584-AD8615AUJZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8615AUJZ-REEL7?qs=%2FtpEQrCGXCyHRrprFEn%2Fog%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD8615AUJZ-REEL7)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (AD8615AUJZ-REEL7)
+AD8615AUJZ-REEL7
+1.1!Y 2.1!P 3.1!I 4.1!I 5.1!P 

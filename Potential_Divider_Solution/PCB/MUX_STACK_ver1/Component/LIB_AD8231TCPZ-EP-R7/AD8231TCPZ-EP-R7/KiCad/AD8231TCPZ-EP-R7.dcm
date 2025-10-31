@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8231TCPZ-EP-R7
+D Instrumentation Amplifiers Low Volt Low Drift Signal Condition Amp
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8231-EP.pdf
+$ENDCMP
+#
+#End Doc Library

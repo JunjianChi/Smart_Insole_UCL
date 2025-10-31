@@ -1,0 +1,6 @@
+warning: the default selection Single_Frame (undefined) of <choice FRAME_TYPE> (defined at D:/ESP32_Project/MAT_Current_Source/main/Kconfig.projbuild:37) is not contained in the choice
+info: INFO: Symbol IDF_TARGET_LINUX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\ESP\v5.3\esp-idf\Kconfig:78
+    D:\ESP\v5.3\esp-idf\Kconfig:162
+Server running, waiting for requests on stdin...
+Loading config from d:\ESP32_Project\MAT_Current_Source\sdkconfig...

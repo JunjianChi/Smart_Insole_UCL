@@ -1,0 +1,16 @@
+.ADG732BSUZ-REEL :1 ;16-/32-Channel, 4 , +1.8 V to +5.5 V and +/-2.5 V Analog Multiplexers.
+QFP50P900X900X120-48N
+*STM IC
+*NGS
+*PLB 1="S12" 2="S11" 3="S10" 4="S9" 5="S8" 6="S7" 7="S6" 8="S5" 9="S4" 10="S3" 11="S2" 12="S1" 13="VDD_1" 14="VDD_2" 15="A0" 16="A1" 17="A2" 18="A3" 19="A4" 20="'CS'" 21="'WR'" 22="'EN'" 23="GND" 24="VSS" 25="S17" 26="S18" 27="S19" 28="S20" 29="S21" 30="S22" 31="S23" 32="S24" 33="S25" 34="S26" 35="S27" 36="S28" 37="S29" 38="S30" 39="S31" 40="S32" 41="NIC_1" 42="NIC_2" 43="D" 44="NIC_3" 45="S16" 46="S15" 47="S14" 48="S13"
+*MXP 48
+*DFN ADG732BSUZ-REEL
+~!Mouser Part Number (584-ADG732BSUZ-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG732BSUZ-REEL?qs=BpaRKvA4VqGYLEdHjoL3%2FQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADG732BSUZ-REEL)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/ADG732BSUZ-REEL.pdf)
+~!Height (1.2mm)
+~!3D_Model (ADG732BSUZ-REEL)
+ADG732BSUZ-REEL
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AD8231TCPZ-EP-R7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-01-20-11:07:55)
+    (mountForm default
+        (footprintRef "QFN65P400X400X80-17N-D")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3313J-1-103E
+D Bourns 3313J Series SMD Cermet Trimmer Resistor with J-Hook Terminations, 10k +/-20% 1/8W +/-100ppm/C Top Adjust
+K
+F https://www.bourns.com/docs/Product-Datasheets/3313.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_573465"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-16-09:00:44)
+    (utime 2024-07-04-09:40:47)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "3313J-1-103E")
+)
+
+
+(pinAssign "ECS_573465"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-16-09:00:44)
+    (utime 2024-07-04-09:40:47)
+    (interface
+        (port "1" (symbPinId 1) (portName "CCW") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "WIPER") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CW") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_573465")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "3313J-1-103E")
+)
+
+
+(part "3313J-1-103E"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-16-09:00:44)
+    (utime 2024-07-04-09:40:47)
+    (packageRef "3313J-1-103E")
+    (pinAssignRef "ECS_573465")
+    (interface
+        (port "1" (symbPinId 1) (portName "CCW") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "WIPER") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CW") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "VR")
+    (property "description" "Bourns 3313J Series SMD Cermet Trimmer Resistor with J-Hook Terminations, 10k +/-20% 1/8W +/-100ppm/C Top Adjust")
+    (property "Mouser_Part_Number" "652-3313J-1-103E")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/3313J-1-103E?qs=oM%2FE6%2FUWOpSJWTaqAX%252Bm%2Fw%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "3313J-1-103E")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/3313.pdf")
+    (property "compAreaTopHeight" 2.4)
+)
+
+

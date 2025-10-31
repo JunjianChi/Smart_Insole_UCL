@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADG732BSUZ_REEL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADG732BSUZ-REEL" (!) = "", "QFP50P900X900X120-48N", "Quad Flat Packages", "584-ADG732BSUZ-R", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG732BSUZ-REEL?qs=BpaRKvA4VqGYLEdHjoL3%2FQ%3D%3D", "16-/32-Channel, 4 , +1.8 V to +5.5 V and +/-2.5 V Analog Multiplexers.", "https://componentsearchengine.com/Datasheets/1/ADG732BSUZ-REEL.pdf", "1.2 mm"
+END_PART
+
+END.

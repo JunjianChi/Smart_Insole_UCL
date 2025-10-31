@@ -1,0 +1,16 @@
+.AD8231TCPZ-EP-R7 :1 ;Instrumentation Amplifiers Low Volt Low Drift Signal Condition Amp
+QFN65P400X400X80-17N-D
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="-INA (IN-AMP -IN)" 3="+INA (IN-AMP +IN)" 4="NC_2" 5="'SDN'" 6="+INB" 7="-INB" 8="OUTB (OP AMP OUT)" 9="REF" 10="OUTA (IN-AMP OUT)" 11="-VS_1" 12="+VS" 13="'CS'" 14="A0" 15="A1" 16="A2" 17="-VS_2"
+*MXP 17
+*DFN AD8231TCPZ-EP-R7
+~!Mouser Part Number (584-AD8231TCPZ-EP-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8231TCPZ-EP-R7?qs=%2FtpEQrCGXCwVvPTzyZftPQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD8231TCPZ-EP-R7)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/AD8231-EP.pdf)
+~!Height (0.8mm)
+~!3D_Model (AD8231TCPZ-EP-R7)
+AD8231TCPZ-EP-R7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=3313J-1-103E
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=3
+Version=2.1
+Released=2019-01-16 09:00:44
+Downloaded=2024-08-13 20:32:10
+3D=Y

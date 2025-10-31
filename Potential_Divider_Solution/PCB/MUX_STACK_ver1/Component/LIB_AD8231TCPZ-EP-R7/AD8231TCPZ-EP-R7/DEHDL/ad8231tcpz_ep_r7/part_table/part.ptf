@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD8231TCPZ_EP_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "AD8231TCPZ-EP-R7" (!) = "", "QFN65P400X400X80-17N-D", "Quad Flat No-Lead", "584-AD8231TCPZ-EP-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8231TCPZ-EP-R7?qs=%2FtpEQrCGXCwVvPTzyZftPQ%3D%3D", "Instrumentation Amplifiers Low Volt Low Drift Signal Condition Amp", "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8231-EP.pdf", "0.8 mm"
+END_PART
+
+END.

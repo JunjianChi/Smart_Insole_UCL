@@ -1,0 +1,19 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.espIdfPathWin": "d:\\ESP\\v5.2.2\\esp-idf",
+    "idf.pythonBinPathWin": "d:\\ESP\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "d:\\ESP",
+    "idf.userPath": "C:\\Users\\Junjian Chi",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM17",
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "span": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "stdio.h": "c"
+    }
+}
