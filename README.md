@@ -16,7 +16,6 @@ It includes two main design iterations presented at ISCAS 2025 and ISCAS 2026
 ---
 
 ## 📁 Repository Structure
-<pre>
 Git_Insole/
 ├── README.md
 ├── Potential_Divider_Solution/
@@ -34,7 +33,7 @@ Git_Insole/
 │   ├── WiFi_Server_Code/
 │   └── README.md
 └── docs/
-</pre>
+
 
 
 
@@ -44,7 +43,7 @@ Git_Insole/
 ## 🧩 Version Overview
 
 | Version | Year | Core Method | Highlights |
-|----------|------|-------------|-------------|
+|----------|------|
 | **ISCAS 2025** | Potential Divider Circuit 
 | **ISCAS 2026** | Dual-Sensing Hybrid Design
 
