@@ -16,24 +16,28 @@ It includes two main design iterations presented at ISCAS 2025 and ISCAS 2026
 ---
 
 ## 📁 Repository Structure
-Git_Insole/
-├── README.md
-├── Potential_Divider_Solution/
-│   ├── PCB/
-│   ├── Software_Code/
-│   ├── DataCollection/
-│   ├── Documents/
-│   └── README.md
-├── Double_Sensing_Solution/
-│   ├── 3D_Model/
-│   ├── DataCollection/
-│   ├── ESP_MCU_Code/
-│   ├── Multisim_Simulation/
-│   ├── PCB/
-│   ├── WiFi_Server_Code/
-│   └── README.md
-└── docs/
 
+<details>
+<summary><code>Git_Insole/</code></summary>
+
+- `README.md`
+- `Potential_Divider_Solution/`
+  - `PCB/`
+  - `Software_Code/`
+  - `DataCollection/`
+  - `Documents/`
+  - `README.md`
+- `Double_Sensing_Solution/`
+  - `3D_Model/`
+  - `DataCollection/`
+  - `ESP_MCU_Code/`
+  - `Multisim_Simulation/`
+  - `PCB/`
+  - `WiFi_Server_Code/`
+  - `README.md`
+- `docs/`
+
+</details>
 
 
 
@@ -42,10 +46,10 @@ Git_Insole/
 
 ## 🧩 Version Overview
 
-| Version | Year | Core Method | Highlights |
-|----------|------|
-| **ISCAS 2025** | Potential Divider Circuit 
-| **ISCAS 2026** | Dual-Sensing Hybrid Design
+| Version        | Year | Core Method                   | 
+|----------------|------|-------------------------------|
+| **ISCAS 2025** | 2025 | Potential Divider Circuit     | 
+| **ISCAS 2026** | 2026 | Dual-Sensing Hybrid Design    |
 
 ---
 
